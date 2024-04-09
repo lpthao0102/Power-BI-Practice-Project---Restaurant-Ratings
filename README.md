@@ -1,6 +1,6 @@
 # Power-BI-Project-1---Restaurant-Ratings
 
-![Image](https://github.com/lpthao0102/Power-BI-Project---Restaurant-Ratings/assets/166318783/219bb367-0bb5-4767-b1e5-a8b26fa911c6)
+![Image](https://github.com/lpthao0102/Power-BI-Project-1---Restaurant-Ratings/assets/166318783/722c97bd-43d1-4082-80d6-f6217b983525)
 
 **INTRODUCTION**
 -----------------------------------------------------------------------------------------------
@@ -24,7 +24,7 @@ The dataset includes 5 tables: consumer_preferences, consumers, ratings, restaur
 
 This data was modeled using one-to-many relationships due to the presence of foreign keys. The ratings table served as the fact table. For the two tables restaurants and restaurants_cuisines, the data was filtered on both sides of the relationship. Because a restaurant could serve more than one cuisine and a cuisine could be present in more than one restaurant. The same filtering approach was applied to the tables consumers and consumer_preferences.
 
-![0 Model](https://github.com/lpthao0102/Power-BI-Project---Restaurant-Ratings/assets/166318783/6658033f-7415-4abe-9881-ed8ff2e4c2df)
+![0 Model](https://github.com/lpthao0102/Power-BI-Project-1---Restaurant-Ratings/assets/166318783/46a37e53-3a7e-4180-a74f-d2c30879ac1d)
 
 Data Analysis Expression Language (DAX) was utilized to enhance the dataset. Some Measures, such as Total Orders or Total Smokers, were organized into a separate table titled 'facts'. In addition to setting up the table structure, the functionality of creating a hierarchy and forming a new group were also applied.
 
@@ -34,7 +34,7 @@ Various cards, tables, charts and graphs were used to create 3 distinct reports.
 
 __Report 1:_ Restaurant Overview_
 
-![1 Restaurant Overview](https://github.com/lpthao0102/Power-BI-Project---Restaurant-Ratings/assets/166318783/6602acc7-89f9-4cfd-9696-52b85c7fba8a)
+![1 Restaurant Overview](https://github.com/lpthao0102/Power-BI-Project-1---Restaurant-Ratings/assets/166318783/c66af95e-643f-4a62-8923-4955e3a2b756)
 
 - In general, the average of service rating was lower than the average of food rating and the average of overall rating.
 - San Luis Potosi was the city with the highest number of restaurants (84 out of 130), the most diverse cuisine (18 out of 23), and the highest order volume (921 out of 1161).
@@ -45,7 +45,7 @@ __Report 1:_ Restaurant Overview_
 
 _Report 2: Detailed Performance_
 
-![2 Detailed Performance](https://github.com/lpthao0102/Power-BI-Project---Restaurant-Ratings/assets/166318783/0aa55c5d-beb8-48a3-a0f2-8c4e84c840e1)
+![2 Detailed Performance](https://github.com/lpthao0102/Power-BI-Project-1---Restaurant-Ratings/assets/166318783/0ff6a73d-02a0-454c-8dd4-94a46f99a3f6)
 
 - Top 3 restaurants were Tortas Locas Hipocampo, Puesto De Tacos and Caffeteria Y Restaurant El Pacifico. What's noteworthy is that they are all located in the city of San Luis Potosi.
 - Tortas Locas Hipocampo received the most ratings and the highest number of orders. It was praised for its food, services, and overall experience.
@@ -55,7 +55,7 @@ _Report 2: Detailed Performance_
 
 _Report 3: Customer Report_
 
-![3 Customer Report](https://github.com/lpthao0102/Power-BI-Project---Restaurant-Ratings/assets/166318783/fe120e6b-930c-47d4-8aeb-0a375711928c)
+![3 Customer Report](https://github.com/lpthao0102/Power-BI-Project-1---Restaurant-Ratings/assets/166318783/32aa6b91-a70f-4570-9887-3c4a9005431e)
 
 Age under 30 is categorized into the youth group, over 60 is the elderly group, while others belong to the middle-aged group.
 - More than 60% of customers came from San Luis Potosi.
