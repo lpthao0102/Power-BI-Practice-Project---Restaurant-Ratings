@@ -1,4 +1,4 @@
-# Power-BI-Project-1---Restaurant-Ratings
+# Power-BI-Practice-Project---Restaurant-Ratings
 
 ![Image](https://github.com/lpthao0102/Power-BI-Project-1---Restaurant-Ratings/assets/166318783/722c97bd-43d1-4082-80d6-f6217b983525)
 
@@ -45,7 +45,7 @@ __Report 1:_ Restaurant Overview_
 
 _Report 2: Detailed Performance_
 
-![2 Detailed Performance](https://github.com/lpthao0102/Power-BI-Project-1---Restaurant-Ratings/assets/166318783/0ff6a73d-02a0-454c-8dd4-94a46f99a3f6)
+![2 Detailed Performance](https://github.com/lpthao0102/Power-BI-Practice-Project---Restaurant-Ratings/assets/166318783/22669781-421f-4c5e-87b3-c6a8aacf0a4e)
 
 - Top 3 restaurants were Tortas Locas Hipocampo, Puesto De Tacos and Caffeteria Y Restaurant El Pacifico. What's noteworthy is that they are all located in the city of San Luis Potosi.
 - Tortas Locas Hipocampo received the most ratings and the highest number of orders. It was praised for its food, services, and overall experience.
@@ -55,7 +55,7 @@ _Report 2: Detailed Performance_
 
 _Report 3: Customer Report_
 
-![3 Customer Report](https://github.com/lpthao0102/Power-BI-Project-1---Restaurant-Ratings/assets/166318783/32aa6b91-a70f-4570-9887-3c4a9005431e)
+![3 Customer Report](https://github.com/lpthao0102/Power-BI-Practice-Project---Restaurant-Ratings/assets/166318783/74c0aac5-707f-401c-a6f4-dac53b199cf6)
 
 Age under 30 is categorized into the youth group, over 60 is the elderly group, while others belong to the middle-aged group.
 - More than 60% of customers came from San Luis Potosi.
@@ -63,7 +63,6 @@ Age under 30 is categorized into the youth group, over 60 is the elderly group, 
 - Smoking and drinking levels did not make much impact because the proportion of non smokers was the majority and social plus casual drinkers were more than 60%.
 - Maximum customers used public transportation methods.
 - Majority of customers belonged to the youth group, and they were single or not dependent. A significant portion consisted of students with a medium-sized budget.
-- Customers who tended to be easygoing in rating belong to the elderly group. They were married and dependent. They also had employment and a high budget scale.
 
 **RECOMMENDATION**
 -----------------------------------------------------------------------------------------------
