@@ -30,7 +30,7 @@ Data Analysis Expression Language (DAX) was utilized to enhance the dataset. Som
 
 **VISUALIZATION AND ANALYSIS**
 -----------------------------------------------------------------------------------------------
-Various cards, tables, charts and graphs were used to create 3 distinct reports. Some features such as Page Navigation and Bookmarks were employed to optimize the layout of the report page. Each report provides a detailed analysis.
+Various cards, tables, charts and graphs were used to create 3 report pages. Some features such as Page Navigation and Bookmarks were employed to optimize the layout of the report page. Each report provides a detailed analysis.
 
 __Report 1:_ Restaurant Overview_
 
