@@ -32,7 +32,7 @@ Data Analysis Expression Language (DAX) was utilized to enhance the dataset. Som
 -----------------------------------------------------------------------------------------------
 Various cards, tables, charts and graphs were used to create 3 report pages. Some features such as Page Navigation and Bookmarks were employed to optimize the layout of the report page. Each report provides a detailed analysis.
 
-__Report 1:_ Restaurant Overview_
+_Page 1: Restaurant Overview_
 
 ![1 Restaurant Overview](https://github.com/lpthao0102/Power-BI-Project-1---Restaurant-Ratings/assets/166318783/c66af95e-643f-4a62-8923-4955e3a2b756)
 
@@ -43,7 +43,7 @@ __Report 1:_ Restaurant Overview_
 - Restaurants with medium price had the highest demand, followed by those with low prices, while high-priced ones were less attractive.
 - In general, the average service rating was lower than the average food rating and the average overall rating.
 
-_Report 2: Detailed Performance_
+_Page 2: Detailed Performance_
 
 ![2 Detailed Performance](https://github.com/lpthao0102/Power-BI-Practice-Project---Restaurant-Ratings/assets/166318783/22669781-421f-4c5e-87b3-c6a8aacf0a4e)
 
@@ -53,7 +53,7 @@ _Report 2: Detailed Performance_
 - With 21 establishments, Cuernavaca city had the best-rated restaurants on average.
 - Mexican cuisine was the most served and had the highest sum of overall rating (283). It also ranked at the top on the list of cuisines presented in restaurants (38 out of 130). The highest average (1.75) belonged to Mediterranean cuisine, but it was not as popular.
 
-_Report 3: Customer Report_
+_Page 3: Customer Report_
 
 ![3 Customer Report](https://github.com/lpthao0102/Power-BI-Practice-Project---Restaurant-Ratings/assets/166318783/74c0aac5-707f-401c-a6f4-dac53b199cf6)
 
@@ -66,7 +66,7 @@ Age under 30 is categorized into the youth group, over 60 is the elderly group, 
 
 **RECOMMENDATION**
 -----------------------------------------------------------------------------------------------
-Understanding customer behavior, preferences, and market dynamics within the restaurant industry in Mexico is crucial. The insights garnered from these reports provide valuable information that can guide strategic decisions, marketing methods, and potential investment opportunities by maximizing the utilization of available opportunities:
+Understanding customer behavior, preferences, and market dynamics within the restaurant industry in Mexico is crucial. The insights garnered from this report provide valuable information that can guide strategic decisions, marketing methods, and potential investment opportunities by maximizing the utilization of available opportunities:
 - Location Preference and Target Demographic: San Luis Potosi stood out as the prime location for restaurants due to its high customer traffic, especially among unmarried people, those around 20 to 30 years old, and students. Therefore, prioritizing this demographic and ensuring easy accessibility by public transport is crucial for success.
 - Cuisine Preference and Pricing Strategy: There was a clear demand for Mexican cuisine, with customers mostly having a medium budget. Therefore, it is recommended to offer medium-priced Mexican dishes to satisfy this preference and demographic, ensuring the prices are reasonable while still making a profit.
 - Investment Recommendations: Tortas Locas Hipocampos, with its medium pricing and location in San Luis Potosi, presented itself as a top investment option. Despite not offering alcohol service or allowing smoking, it remained the highest-rated restaurant, indicating that these features may not have been necessary for success in this market.
